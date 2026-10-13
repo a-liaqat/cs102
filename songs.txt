@@ -1,0 +1,100 @@
+Midnight City,M83,electronic,4
+Dreams,Fleetwood Mac,rock,4
+Levitating,Dua Lipa,pop,3
+Take On Me,a-ha,pop,4
+Electric Feel,MGMT,electronic,4
+Dog Days Are Over,Florence + The Machine,indie,4
+Mr. Brightside,The Killers,rock,4
+Blinding Lights,The Weeknd,pop,3
+Somebody Else,The 1975,indie,6
+Bad Habit,Steve Lacy,R&B,4
+Kids,MGMT,electronic,5
+Yellow,Coldplay,rock,4
+Good Days,SZA,R&B,5
+Ribs,Lorde,pop,4
+Sweet Disposition,The Temper Trap,indie,4
+Instant Crush,Daft Punk,electronic,6
+Everlong,Foo Fighters,rock,4
+Supercut,Lorde,pop,5
+Space Song,Beach House,indie,5
+Pink + White,Frank Ocean,R&B,3
+1901,Phoenix,indie,3
+Get Lucky,Daft Punk,electronic,6
+The Less I Know the Better,Tame Impala,indie,4
+As It Was,Harry Styles,pop,3
+Do I Wanna Know?,Arctic Monkeys,rock,5
+After the Storm,Kali Uchis,R&B,3
+Lisztomania,Phoenix,indie,4
+Harder Better Faster Stronger,Daft Punk,electronic,4
+Don't Stop Me Now,Queen,rock,4
+Green Light,Lorde,pop,4
+Dancing Queen,ABBA,pop,4
+Go Your Own Way,Fleetwood Mac,rock,4
+Borderline,Tame Impala,indie,4
+Sunset Lover,Petit Biscuit,electronic,4
+Snooze,SZA,R&B,3
+Style,Taylor Swift,pop,4
+Dream On,Aerosmith,rock,4
+Myth,Beach House,indie,4
+One More Time,Daft Punk,electronic,5
+Lost,Frank Ocean,R&B,4
+Everybody Wants to Rule the World,Tears for Fears,pop,4
+Under Pressure,Queen,rock,4
+Are You Bored Yet?,Wallows,indie,3
+Intro,The xx,electronic,2
+Best Part,Daniel Caesar,R&B,4
+Royals,Lorde,pop,3
+The Chain,Fleetwood Mac,rock,5
+Breezeblocks,alt-J,indie,4
+Walking on a Dream,Empire of the Sun,electronic,3
+Redbone,Childish Gambino,R&B,5
+Just Dance,Lady Gaga,pop,4
+Somebody Told Me,The Killers,rock,3
+Archie Marry Me,Alvvays,indie,3
+Fireflies,Owl City,electronic,4
+Thinkin Bout You,Frank Ocean,R&B,4
+Teenage Dream,Katy Perry,pop,4
+Reptilia,The Strokes,rock,4
+Chamber of Reflection,Mac DeMarco,indie,4
+Strobe,deadmau5,electronic,10
+Love Galore,SZA,R&B,4
+Cruel Summer,Taylor Swift,pop,3
+Hotel California,Eagles,rock,6
+505,Arctic Monkeys,indie,4
+Around the World,Daft Punk,electronic,7
+Japanese Denim,Daniel Caesar,R&B,5
+Toxic,Britney Spears,pop,3
+Bohemian Rhapsody,Queen,rock,6
+Apocalypse,Cigarettes After Sex,indie,5
+Ghosts 'n' Stuff,deadmau5,electronic,6
+Nights,Frank Ocean,R&B,5
+Hung Up,Madonna,pop,6
+Free Bird,Lynyrd Skynyrd,rock,9
+Dance Yrself Clean,LCD Soundsystem,indie,9
+Opus,Eric Prydz,electronic,9
+Pyramids,Frank Ocean,R&B,10
+All Too Well,Taylor Swift,pop,10
+November Rain,Guns N' Roses,rock,9
+Impossible Soul,Sufjan Stevens,indie,25
+Innerbloom,RÜFÜS DU SOL,electronic,9
+Untitled 05,Kendrick Lamar,R&B,5
+Espresso,Sabrina Carpenter,pop,3
+Song 2,Blur,rock,2
+First Day of My Life,Bright Eyes,indie,3
+Midnight,Lane 8,electronic,5
+Adorn,Miguel,R&B,3
+Pocketful of Sunshine,Natasha Bedingfield,pop,4
+Float On,Modest Mouse,rock,3
+Young Folks,Peter Bjorn and John,indie,5
+Latch,Disclosure,electronic,4
+Cranes in the Sky,Solange,R&B,4
+Cool,Gwen Stefani,pop,3
+Maps,Yeah Yeah Yeahs,rock,4
+Such Great Heights,The Postal Service,indie,4
+Shelter,Porter Robinson,electronic,4
+Golden,Jill Scott,R&B,4
+Since U Been Gone,Kelly Clarkson,pop,3
+Last Nite,The Strokes,rock,3
+New Slang,The Shins,indie,4
+Language,Porter Robinson,electronic,6
+Pretty Little Fears,6LACK,R&B,6
